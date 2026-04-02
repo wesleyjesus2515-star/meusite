@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("minhaloja")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+511f6dc3020b87ffbd75396d7a8d4a239845aba8")]
 [assembly: System.Reflection.AssemblyProductAttribute("minhaloja")]
 [assembly: System.Reflection.AssemblyTitleAttribute("minhaloja")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
